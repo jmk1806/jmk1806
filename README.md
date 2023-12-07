@@ -9,7 +9,6 @@ Here are some ideas to get you started: -->
 ### Programming Languages
 - Python
 - C
-- Java
 - JavaScript
 ### DBMS
 - PostgreSQL
@@ -19,10 +18,7 @@ Here are some ideas to get you started: -->
 - SQL
 
 ## 🌱 I’m exploring...
-- React Native
-- Vue
-- Django
-- Android Software Development
+- React
 - AWS 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
